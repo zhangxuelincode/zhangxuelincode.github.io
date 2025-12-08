@@ -98,14 +98,14 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] 华中农业大学学报 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](https://zhangxuelincode.github.io/)
 
 Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/liweifu/zh_CN/index.htm), Jianhua Liao, Kaidong Xie, Xiaomeng Wu, [Yaohui Chen*](https://faculty.hzau.edu.cn/chenyaohui/zh_CN/index.htm).
 
-**华中农业大学学报 2025 [J]**
+**Journal of Huazhong Agricultural University 2025 [J]**
 
 - 提出了改进的YOLOv11-FS模型，有效克服了柑橘花粉颗粒小、易抱团、背景复杂等检测挑战。
 - 为无核柑橘品种培育提供了可靠的技术支持，同时可为柑橘果园智能化管理中的花粉活力检测和品种改良提供技术支撑。
