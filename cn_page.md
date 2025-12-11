@@ -98,10 +98,10 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [[Q2, T2](https://cjournal.hep.com.cn/1000-2421/CN/qkjs)]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [[Q2, T2]]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](https://zhangxuelincode.github.io/)
+[Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](http://hnxbw.cnjournals.net/hznydxsk/home)
 
 Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/liweifu/zh_CN/index.htm), Jianhua Liao, Kaidong Xie, Xiaomeng Wu, [Yaohui Chen*](https://faculty.hzau.edu.cn/chenyaohui/zh_CN/index.htm).
 
@@ -131,7 +131,7 @@ Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] JNSPM 2025 </div><img src='images/jnspm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[On the Convergence of Nonconcave-Nonconvex Max-Min Optimization Problem](https://zhangxuelincode.github.io/)
+[On the Convergence of Nonconcave-Nonconvex Max-Min Optimization Problem](https://www.icck.org/article/abs/jnspm.2025.112121)
 
 **Xuelin Zhang***
 
@@ -416,9 +416,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 # 👾 软著
 
 - *2025.7:*  **流形学习视频优化处理软件 V1.0 （已授权）**.
-- *2025.11:*  **移动GUI大模型智能体系统 （实质审查中）**.
-- *2025.11:*  **基于双层广义可加模型的小麦病害诊断系统 （实质审查中）**.
-- *2025.11:*  **基于双层时序图神经网络的电力能源需求与负荷预测软件 （实质审查中）**.
+- *2025.12:*  **基于双层时序图神经网络的电力能源需求与负荷预测软件 （已授权）**.
 
 # 💬 学术服务
 
