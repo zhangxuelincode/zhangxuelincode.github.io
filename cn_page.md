@@ -357,9 +357,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection. #
 - Assessing Image Quality without Reference: A Fusion of Multi-Modal Gaussian Features and Contrastive Learning.
 
-**（2）合作**
+**（2）合作与通讯**
 
-- BIAM: Bilevel Interactive Additive Model.
+- BIAM: Bilevel Interactive Additive Model. *
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning.
