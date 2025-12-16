@@ -348,13 +348,14 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 **（1）一作**
 
 - Bilevel Manifold Fitting.
-- Maximum Likelihood Neural Additive Models.
+- Maximum Likelihood Neural Additive Models. #
 - Meta Additive Model: Learning Theory Analysis and Applications.
-- [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766)
+- [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766) #
 - On the Stability and Generalization of First-order Bilevel Minimax Optimization.
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
-- Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection.
+- Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection. #
+- Assessing Image Quality without Reference: A Fusion of Multi-Modal Gaussian Features and Contrastive Learning.
 
 **（2）合作**
 
