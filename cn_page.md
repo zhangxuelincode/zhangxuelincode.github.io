@@ -98,7 +98,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [[Q2, T2]]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](http://hnxbw.cnjournals.net/hznydxsk/home)
