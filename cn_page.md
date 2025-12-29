@@ -367,7 +367,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Enhancing Trojan Detection Robustness: A Pseudo-Supervised Framework with Imbalance-Aware Robust Loss.
-- **+_+**  More ongoing works on LLM agents and intelligent bioinformatics are coming soon!
+- **+_+**  More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 
 
 # 🎖️ 以往活动与奖项
