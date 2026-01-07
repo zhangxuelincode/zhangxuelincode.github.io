@@ -44,6 +44,8 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
+- *2026.1*: &nbsp;🎉🎉  荣获[**ICPADS**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
+- 
 - *2025.11*: &nbsp;🎉🎉  荣获[华中农业大学研究生年会（数学）一等奖与“三好研究生”](https://mp.weixin.qq.com/s/g6Lh_Vp07kt1QMgahd7i2g).
 
 - *2025.10*: &nbsp;🎉🎉  两篇论文（“可解释/鲁棒机器学习”）被[**ICPADS**](http://ieee-icpads.org.cn/)(**分布式领域CCF-C类**会议)接收.
@@ -67,14 +69,14 @@ redirect_from:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B] </div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
 
 Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 
-**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** (**Best Presentation in Session**)
 
 - PGIW框架在度量学习领域引入了一种创新的解决方案，有效地解决了传统方法在分布变化下的性能下降问题。
 - 从理论角度，分析了现有算法的缺陷，证明了PGIW方法在更多的分布漂移类型下表现出风险一致性，为其实际应用提供了有力的理论支持。
@@ -85,11 +87,11 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes](https://zhangxuelincode.github.io/)
+[Interpretable Bilevel Additive Taylor Model](https://zhangxuelincode.github.io/)
 
 Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
-**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** (**Best Presentation in Session**)
 
 - 利用泰勒级数展开来捕捉更高阶的相互作用，为低秩近似引入了Tucker分解。
 - 结合了双层优化和稀疏神经加性建模，并集成了Tucker分解，有效地解决了标签噪声和类别不平衡，同时保持了可解释性。
