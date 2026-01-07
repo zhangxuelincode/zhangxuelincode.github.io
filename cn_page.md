@@ -44,7 +44,7 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
-- *2026.1*: &nbsp;🎉🎉  荣获[**ICPADS**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
+- *2026.1*: &nbsp;🎉🎉  荣获[**ICPADS 2025**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
 
 - *2025.11*: &nbsp;🎉🎉  荣获[华中农业大学研究生年会（数学）一等奖与“三好研究生”](https://mp.weixin.qq.com/s/g6Lh_Vp07kt1QMgahd7i2g).
 
