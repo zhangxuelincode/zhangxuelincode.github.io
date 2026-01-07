@@ -76,7 +76,7 @@ redirect_from:
 
 Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 
-**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** (**Best Presentation in Session**)
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** ([**Best Presentation in Session**](https://github.com/zhangxuelincode/zhangxuelincode.github.io/blob/main/images/best_pre_in_session_pgiw.pdf))
 
 - PGIW框架在度量学习领域引入了一种创新的解决方案，有效地解决了传统方法在分布变化下的性能下降问题。
 - 从理论角度，分析了现有算法的缺陷，证明了PGIW方法在更多的分布漂移类型下表现出风险一致性，为其实际应用提供了有力的理论支持。
@@ -91,7 +91,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 
 Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
-**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** (**Best Presentation in Session**)
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** ([**Best Presentation in Session**](https://github.com/zhangxuelincode/zhangxuelincode.github.io/blob/main/images/best_pre_in_session_batm.pdf))
 
 - 利用泰勒级数展开来捕捉更高阶的相互作用，为低秩近似引入了Tucker分解。
 - 结合了双层优化和稀疏神经加性建模，并集成了Tucker分解，有效地解决了标签噪声和类别不平衡，同时保持了可解释性。
