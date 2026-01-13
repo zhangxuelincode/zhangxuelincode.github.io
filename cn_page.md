@@ -79,7 +79,7 @@ Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn
 **Information Sciences 2026 [J]** 
 
 - 算法上，提出了结合最大似然与核密度估计的ML-NAM，通过非参数化拟合残差分布，在无预设噪声假设下实现了对非高斯噪声的鲁棒学习。
-- 理论上，建立了模型的过量风险上界，证明其在Besov空间下能够达到具有多项式衰减速率的极小化极大收敛性。
+- 理论上，建立了模型的超额风险上界，证明其在Besov空间下能够达到具有多项式衰减速率的minimax收敛性。
 - 实现代码：[github.com/zhangxuelincode/ML-NAM](https://github.com/zhangxuelincode/ML-NAM)
 </div>
 </div>
