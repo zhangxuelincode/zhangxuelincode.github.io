@@ -69,7 +69,6 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
