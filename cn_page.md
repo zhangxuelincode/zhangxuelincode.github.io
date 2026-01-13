@@ -366,8 +366,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 **（1）一作**
 
 - Bilevel Manifold Fitting.
-- Maximum Likelihood Neural Additive Models. #
-- Meta Additive Model: Learning Theory Analysis and Applications.
+- Meta Additive Model: Interpretable Sparse Learning With Auto Weighting.
 - [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766) #
 - On the Stability and Generalization of First-order Bilevel Minimax Optimization.
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
