@@ -44,6 +44,8 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
+- *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences)(**人工智能领域CCF-B类**期刊)接收.
+
 - *2026.1*: &nbsp;🎉🎉  荣获[**ICPADS 2025**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
 
 - *2025.11*: &nbsp;🎉🎉  荣获[华中农业大学研究生年会（数学）一等奖与“三好研究生”](https://mp.weixin.qq.com/s/g6Lh_Vp07kt1QMgahd7i2g).
@@ -67,6 +69,21 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Maximum Likelihood Neural Additive Models](https://zhangxuelincode.github.io/)
+
+Jingyi Chen$^\#$, **Xuelin Zhang$^\#$**, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn/cms/show.action?code=publish_808080806b6e478b016b6ed1371b0009&newsid=5d66538136c741ceaef07a5ee827c699&channelid=0000000178), Hong Chen*.
+
+**Information Sciences 2026 [J]** 
+
+- 算法上，提出了结合最大似然与核密度估计的ML-NAM，通过非参数化拟合残差分布，在无预设噪声假设下实现了对非高斯噪声的鲁棒学习。
+- 理论上，建立了模型的过量风险上界，证明其在Besov空间下能够达到具有多项式衰减速率的极小化极大收敛性。
+- 实现代码：[github.com/zhangxuelincode/ML-NAM](https://github.com/zhangxuelincode/ML-NAM)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B] </div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
@@ -174,7 +191,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[11] ESWA 2024 [sci-1 Top]</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[11] ESWA 2024 [SCI-1 Top]</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Error Density-dependent Empirical Risk Minimization](https://www.sciencedirect.com/science/article/pii/S0957417424011989)
