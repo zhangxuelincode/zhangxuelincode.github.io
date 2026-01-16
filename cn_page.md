@@ -90,7 +90,7 @@ Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B] </div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
+[Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323092/2dgOl5RfFbW)
 
 Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 
@@ -105,7 +105,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Bilevel Additive Taylor Model](https://zhangxuelincode.github.io/)
+[Interpretable Bilevel Additive Taylor Model](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323060/2dgOcv0Lkxa)
 
 Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
@@ -123,7 +123,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 [Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](http://hnxbl.cnjournals.net/hznydxzren/article/abstract/L202507001)
 
-Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/liweifu/zh_CN/index.htm), Jianhua Liao, Kaidong Xie, [Xiaomeng Wu](https://faculty.hzau.edu.cn/wuxiaomeng/zh_CN/zhym/121338/list/index.htm), [Yaohui Chen*](https://faculty.hzau.edu.cn/chenyaohui/zh_CN/index.htm).
+Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/liweifu/zh_CN/index.htm), Jianhua Liao, Kaidong Xie, [Xiaomeng Wu](https://faculty.hzau.edu.cn/wuxiaomeng/zh_CN/zhym/121338/list/index.htm), [Yaohui Chen*](http://hnxbl.cnjournals.net/hznydxzr/article/abstract/L202507001).
 
 **Journal of Huazhong Agricultural University 2025 [J]**
 
