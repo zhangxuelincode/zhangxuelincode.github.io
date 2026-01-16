@@ -44,6 +44,8 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
+- *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**ICASSP**](https://www.sciencedirect.com/journal/information-sciences)(**多媒体领域CCF-B类**会议)接收.
+
 - *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences)(**人工智能领域CCF-B类**期刊)接收.
 
 - *2026.1*: &nbsp;🎉🎉  荣获[**ICPADS 2025**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
