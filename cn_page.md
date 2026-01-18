@@ -74,7 +74,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[20] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Maximum Likelihood Neural Additive Models](https://linkinghub.elsevier.com/retrieve/pii/S0020025526000356)
+[Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)
 
 Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, Liyuan Liu, Hong Chen.
 
