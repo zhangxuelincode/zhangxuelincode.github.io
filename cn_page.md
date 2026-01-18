@@ -398,7 +398,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.](https://arxiv.org/pdf/2509.21799)
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
-- Enhancing Trojan Detection Robustness: A Pseudo-Supervised Framework with Imbalance-Aware Robust Loss.
+- Robust Hardware Trojan Detection: A Weakly-supervised Learning Framework with IARL.
 - **+_+**  More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 
 
