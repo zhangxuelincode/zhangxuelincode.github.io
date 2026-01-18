@@ -71,6 +71,21 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[20] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Maximum Likelihood Neural Additive Models](https://linkinghub.elsevier.com/retrieve/pii/S0020025526000356)
+
+Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, Liyuan Liu, Hong Chen.
+
+**International Conference on Acoustics, Speech, and Signal Processing 2026 [C]** 
+
+- 提出了一种分布感知神经加性模型，通过结合核密度估计与自适应最大似然估计，在无需严格分布假设的情况下灵活捕捉多样的噪声结构。
+- 引入组稀疏正则化以自动选择最具信息量的输入特征，从而增强模型的可解释性及预测性能。
+- 实现代码：[https://github.com/zxlml/DANAM](https://github.com/zxlml/DANAM)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
