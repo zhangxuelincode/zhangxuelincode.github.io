@@ -80,7 +80,7 @@ Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan*, Liyuan Liu, Hong Chen.
 
 **International Conference on Acoustics, Speech, and Signal Processing 2026 [C]** 
 
-- 提出了一种分布感知神经加性模型，通过结合核密度估计与自适应最大似然估计，在无需严格分布假设的情况下灵活捕捉多样的噪声结构。
+- 提出了一种分布感知神经加性模型，在无需严格分布假设的情况下灵活捕捉多样的噪声结构。
 - 引入组稀疏正则化以自动选择最具信息量的输入特征，从而增强模型的可解释性及预测性能。
 - 实现代码：[Github Link](https://github.com/zxlml/DANAM)
 </div>
