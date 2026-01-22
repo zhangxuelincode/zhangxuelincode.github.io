@@ -76,7 +76,7 @@ redirect_from:
 
 [Distribution-Aware Neural Additive Models](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)
 
-Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan*, Liyuan Liu, Hong Chen.
+Jingyi Chen, **Xuelin Zhang**, Peipei Yuan*, Liyuan Liu, Hong Chen.
 
 **International Conference on Acoustics, Speech, and Signal Processing 2026 [C]** 
 
