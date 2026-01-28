@@ -402,7 +402,20 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Robust Hardware Trojan Detection: A Weakly-supervised Learning Framework with IARL.
 - Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution.
 
-![**+_+**  More ongoing works on agentic RL and intelligent bioinformatics are coming soon!](https://gradient-badge.glitch.me/badge?label=标签&message=内容&color=8A2BE2&gradient=ff0000,00ff00)
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="40">
+<defs>
+<linearGradient id="a" x1="0" y1="0" x2="100%" y2="0">
+<stop offset="0%" stop-color="#ff8a00"/>
+<stop offset="100%" stop-color="#e52e71"/>
+</linearGradient>
+</defs>
+<text x="0" y="70%" fill="url(#a)" font-family="sans-serif" font-weight="900" font-size="30">
+More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
+</text>
+<text x="0" y="70%" fill="url(#a)" font-family="sans-serif" font-weight="900" font-size="30">
+Good Luck to my coauthors!
+</text>
+</svg>
 
 
 # 🎖️ 以往活动与奖项
