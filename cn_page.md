@@ -385,7 +385,8 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Meta Additive Model: Interpretable Sparse Learning With Auto Weighting.
 - [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766) #
 - On the Stability and Generalization of First-order Bilevel Minimax Optimization.
-- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
+- Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System. #
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
 - Assessing Image Quality without Reference: A Fusion of Multi-Modal Gaussian Features and Contrastive Learning.
 
@@ -399,7 +400,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Robust Hardware Trojan Detection: A Weakly-supervised Learning Framework with IARL.
-- **+_+**  More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
+- Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution.
+
+![**+_+**  More ongoing works on agentic RL and intelligent bioinformatics are coming soon!](https://gradient-badge.glitch.me/badge?label=标签&message=内容&color=8A2BE2&gradient=ff0000,00ff00)
 
 
 # 🎖️ 以往活动与奖项
