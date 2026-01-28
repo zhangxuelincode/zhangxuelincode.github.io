@@ -410,13 +410,11 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 </linearGradient>
 </defs>
 <text x="0" y="70%" fill="url(#a)" font-family="sans-serif" font-weight="900" font-size="30">
-More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
-</text>
-<text x="0" y="70%" fill="url(#a)" font-family="sans-serif" font-weight="900" font-size="30">
-Good Luck to my coauthors!
+Lucky 2026 ! 
 </text>
 </svg>
 
+More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 
 # 🎖️ 以往活动与奖项
 - *2025.7 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
