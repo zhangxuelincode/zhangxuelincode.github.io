@@ -400,7 +400,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Robust Hardware Trojan Detection: A Weakly-supervised Learning Framework with IARL.
-- Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution.
+- [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution.](https://arxiv.org/abs/2601.22528)
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="40">
 <defs>
