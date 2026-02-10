@@ -386,7 +386,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766) #
 - On the Stability and Generalization of First-order Bilevel Minimax Optimization.
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
-- Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System. #
+- [Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System.](https://arxiv.org/pdf/2602.08335) #
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
 - Assessing Image Quality without Reference: A Fusion of Multi-Modal Gaussian Features and Contrastive Learning.
 
