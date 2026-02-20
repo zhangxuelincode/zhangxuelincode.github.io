@@ -388,8 +388,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
 - [Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System.](https://arxiv.org/pdf/2602.08335) #
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
-- Assessing Image Quality without Reference: A Fusion of Multi-Modal Gaussian Features and Contrastive Learning.
-
 **（2）合作与通讯**
 
 - BIAM: Bilevel Interactive Additive Model. *
@@ -469,7 +467,7 @@ More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 # 💬 学术服务
 
 
-- *会议审稿人:* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [CVPR](https://cvpr.thecvf.com/Conferences/2026), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
+- *会议审稿人:* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [CVPR](https://cvpr.thecvf.com/Conferences/2026), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/) and their workshops.
 
 - *期刊审稿人:* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [Machine Learning](https://link.springer.com/journal/10994), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Statistics and Computing](https://link.springer.com/journal/11222), [Discover Analytics](https://link.springer.com/journal/44257), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb) .
 
