@@ -389,7 +389,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - [Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System.](https://arxiv.org/pdf/2602.08335) #
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
 
-**（2）合作与通讯**
+**（2）其他**
 
 - BIAM: Bilevel Interactive Additive Model. *
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
