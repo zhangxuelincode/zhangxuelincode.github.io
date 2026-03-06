@@ -387,7 +387,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - On the Stability and Generalization of First-order Bilevel Minimax Optimization.
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
 - [Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System.](https://arxiv.org/pdf/2602.08335) #
-- Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
+- [Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.](https://arxiv.org/pdf/2603.00955)
 
 **（2）其他**
 
