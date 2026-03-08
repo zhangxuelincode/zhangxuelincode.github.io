@@ -391,7 +391,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（2）其他**
 
-- BIAM: Bilevel Interactive Additive Model. *
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. *
