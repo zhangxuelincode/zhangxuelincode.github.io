@@ -44,6 +44,8 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
+- *2026.4*: &nbsp;🎉🎉  一篇论文（“可解释硬件木马定位”）被[**Computer & Security**](https://www.sciencedirect.com/journal/computers-and-security)(**计算机科学CCF-B类**期刊)接收.
+
 - *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**ICASSP**](https://www.sciencedirect.com/journal/information-sciences)(**多媒体领域CCF-B类**会议)接收.
 
 - *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences)(**人工智能领域CCF-B类**期刊)接收.
@@ -71,7 +73,7 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[20] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[21] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distribution-Aware Neural Additive Models](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)
@@ -86,7 +88,7 @@ Jingyi Chen, **Xuelin Zhang**, Peipei Yuan*, Liyuan Liu, Hong Chen.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[20] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Maximum Likelihood Neural Additive Models](https://linkinghub.elsevier.com/retrieve/pii/S0020025526000356)
@@ -102,7 +104,7 @@ Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B] </div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] ICPADS 2025 [ccf-C, Core B] </div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323092/2dgOl5RfFbW)
@@ -117,7 +119,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Bilevel Additive Taylor Model](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323060/2dgOcv0Lkxa)
@@ -133,7 +135,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] Journal of HZAU 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](http://hnxbl.cnjournals.net/hznydxzr/article/abstract/L202507001?st=recent_adopted)
@@ -148,7 +150,7 @@ Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Meta-weighted Sparse Neural Additive Networks](https://dl.acm.org/doi/10.1145/3746252.3760829)
@@ -163,7 +165,7 @@ Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] JNSPM 2025 </div><img src='images/jnspm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] JNSPM 2025 </div><img src='images/jnspm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On the Convergence of Nonconcave-Nonconvex Max-Min Optimization Problem](https://www.icck.org/article/abs/jnspm.2025.112121)
@@ -177,7 +179,7 @@ Liyuan Liu, **Xuelin Zhang**, Hong Chen, [Weifu Li](https://faculty.hzau.edu.cn/
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICML 2025 [ccf-A, Core A*]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] ICML 2025 [ccf-A, Core A*]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On the Generalization Ability of Next-Token-Prediction Pretraining](https://icml.cc/media/icml-2025/Slides/44423.pdf)
@@ -192,7 +194,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[12] ICDM 2024 [ccf-B, , Core A*]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICDM 2024 [ccf-B, , Core A*]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Sparse Additive Model with Unknown Link Function](https://ieeexplore.ieee.org/abstract/document/10884346)
@@ -206,7 +208,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[11] ESWA 2024 [SCI-1 Top]</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[12] ESWA 2024 [SCI-1 Top]</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Error Density-dependent Empirical Risk Minimization](https://www.sciencedirect.com/science/article/pii/S0957417424011989)
@@ -223,7 +225,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] IJCAI 2024 [ccf-A, Core A*]</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[11] IJCAI 2024 [ccf-A, Core A*]</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://www.ijcai.org/proceedings/2024/609)
@@ -238,7 +240,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] IJCNN 2024 [ccf-C, Core A]</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] IJCNN 2024 [ccf-C, Core A]</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improved Concentration Bound for CVaR](https://ieeexplore.ieee.org/abstract/document/10650860)
@@ -252,7 +254,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] FCS 2023 [ccf-B]</div><img src='images/fcs23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] FCS 2023 [ccf-B]</div><img src='images/fcs23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3)
@@ -266,7 +268,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] AAAI 2023 [ccf-A, Core A*]</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] AAAI 2023 [ccf-A, Core A*]</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050)
@@ -282,7 +284,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, [Weifu Li](https://www.researchgat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[6] APIN 2023 [sci-2]</div><img src='images/apin23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] APIN 2023 [sci-2]</div><img src='images/apin23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust variable structure discovery based on tilted empirical risk minimization](https://dl.acm.org/doi/abs/10.1007/s10489-022-04409-z)
@@ -300,7 +302,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, [Weifu Li](https://www.researchgat
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] ICCCS 2022</div><img src='images/icccs22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[6] ICCCS 2022</div><img src='images/icccs22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robustness of classifier to adversarial examples under imbalanced data](https://ieeexplore.ieee.org/document/9846074)
@@ -316,14 +318,14 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, [Yizhi Zhao
 
 # 📝 硬件安全方向论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] C&S 2025 [ccf-B, SCI-2 Top]</div><img src='images/tcad2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] COSE 2025 [ccf-B, SCI-2 Top]</div><img src='images/cs2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Precise and Explainable Hardware Trojan Localization at LUT Level](https://ieeexplore.ieee.org/document/10833822)
+[Explainable Hardware Trojan Detection and Localization in FPGA Netlists](https://ieeexplore.ieee.org/document/10833822)
 
 Lingjuan Wu, Hao Su, Siyi Tian, **Xuelin Zhang**, [Wei Hu*](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en). 
 
-**COMPUTERS & SECURITY 2026 [J]**
+**Computers & Security 2026 [J]**
 
 - 提出了一种基于图神经网络的可解释硬件木马检测与定位方法，利用FPGA网表中查找表（LUT）的初始化向量特征，实现对Xilinx FPGA网表中受感染IP核和木马节点的精准识别
 - 通过引入Granger因果理论，该方法进一步揭示了GNN模型的决策机制，为硬件安全分析提供了可解释的AI解决方案
