@@ -316,6 +316,21 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, [Yizhi Zhao
 
 # 📝 硬件安全方向论文
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] C&S 2025 [ccf-B, SCI-2 Top]</div><img src='images/tcad2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Precise and Explainable Hardware Trojan Localization at LUT Level](https://ieeexplore.ieee.org/document/10833822)
+
+Lingjuan Wu, Hao Su, Siyi Tian, **Xuelin Zhang**, [Wei Hu*](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en). 
+
+**COMPUTERS & SECURITY 2026 [J]**
+
+- 提出了一种基于图神经网络的可解释硬件木马检测与定位方法，利用FPGA网表中查找表（LUT）的初始化向量特征，实现对Xilinx FPGA网表中受感染IP核和木马节点的精准识别
+- 通过引入Granger因果理论，该方法进一步揭示了GNN模型的决策机制，为硬件安全分析提供了可解释的AI解决方案
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[4] TCAD 2025 [ccf-A]</div><img src='images/tcad2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -394,7 +409,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 **（2）其他**
 
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. *
 - [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.](https://arxiv.org/pdf/2509.21799)
 - Automatic Selection of Crucial Gene Counterparts via Bilevel Masking Machine.
