@@ -413,10 +413,10 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. *
 - [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.](https://arxiv.org/pdf/2509.21799)
-- Automatic Selection of Crucial Gene Counterparts via Bilevel Masking Machine.
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Robust Hardware Trojan Detection: A Weakly-supervised Learning Framework with IARL.
+- RADAR: Randomization-based Adaptive Delineation for Associated genes and Regulomics.
 - [Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution.](https://arxiv.org/abs/2601.22528)
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="40">
