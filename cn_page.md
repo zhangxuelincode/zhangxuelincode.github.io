@@ -44,34 +44,36 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
-- *2026.4*: &nbsp;🎉🎉  一篇论文（“可解释硬件木马定位”）被[**Computer & Security**](https://www.sciencedirect.com/journal/computers-and-security)(**计算机科学CCF-B类**期刊)接收.
+- *2026.4*: &nbsp;🎉🎉  一篇论文（“GUI多整体设计”）被[**ACL Findings**](https://openreview.net/forum?id=1YVmSUB1lb)接收.
 
-- *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**ICASSP**](https://www.sciencedirect.com/journal/information-sciences)(**多媒体领域CCF-B类**会议)接收.
+- *2026.4*: &nbsp;🎉🎉  一篇论文（“可解释硬件木马定位”）被[**Computer & Security**](https://www.sciencedirect.com/journal/computers-and-security)接收.
 
-- *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences)(**人工智能领域CCF-B类**期刊)接收.
+- *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**ICASSP**](https://www.sciencedirect.com/journal/information-sciences)接收.
+
+- *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences)接收.
 
 - *2026.1*: &nbsp;🎉🎉  荣获[**ICPADS 2025**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
-
-- *2025.11*: &nbsp;🎉🎉  荣获[华中农业大学研究生年会（数学）一等奖与“三好研究生”](https://mp.weixin.qq.com/s/g6Lh_Vp07kt1QMgahd7i2g).
-
-- *2025.10*: &nbsp;🎉🎉  两篇论文（“可解释/鲁棒机器学习”）被[**ICPADS**](http://ieee-icpads.org.cn/)(**分布式领域CCF-C类**会议)接收.
-
-- *2025.08*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**CIKM**](https://cikm2025.org/)(**数据挖掘领域CCF-B类**会议)接收.
-
-- *2025.05*: &nbsp;🎉🎉  一篇论文（“大模型预训练与泛化”）被[**ICML**](https://icml.cc/)(**人工智能领域CCF-A类**会议)接收. 
-
-- *2025.04*: &nbsp;🎉🎉  荣获 湖北省工业与应用数学学会[**优秀研究生论文**](https://aisle.hzau.edu.cn/info/1097/2476.htm). 
-
-- *2025.01*: &nbsp;🎉🎉  一篇论文（“可解释算法与硬件安全”）被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
-
-- *2024.12*: &nbsp;🎉🎉  参加[**CCF武汉2024年会暨第八届优秀博士论坛**](https://www.ccf.org.cn/Member_Activities/2024-12-23/836271.shtml)并作口头汇报.
-
-- *2024.11*: &nbsp;🎉🎉  荣获 [**博士国家奖学金**](https://coi.hzau.edu.cn/info/1371/15671.htm).
 
 - *2024.06 - 2025.01:* &nbsp;🎉🎉   前往[**中山大学交流学习**](https://scst.sysu.edu.cn/teacher/ShenLi).
 
 
 # 📝 机器学习方向论文
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[22] ACL Findings 2026 </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+Hongze Mi, Yibo Feng, WenJie Lu, Yuqi Wang, Jinyuan Li, Song Cao, He Cui, Tengfei Tian, **Xuelin Zhang**, Haotian Luo, Di Sun, Jun Fang, Hua Chai, Naiqiang Tan, Gang Pan.
+
+**Annual Meeting of the Association for Computational Linguistics 2026 [C]** 
+
+- 提出D-Artemis deliberative框架，通过细粒度应用特定提示检索机制，无需复杂轨迹数据训练即可增强通用多模态大语言模型的GUI任务能力。
+- 设计"执行前对齐-执行后反思"的认知闭环机制，通过TAC检查模块、行动纠正智能体和状态反思智能体的协同工作，主动预防执行失败并实现经验学习。
+- 实现代码：[Github Link](https://anonymous.4open.science/r/Artemis-D8D9)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[21] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -321,7 +323,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, [Yizhi Zhao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] COSE 2025 [ccf-B, SCI-2 Top]</div><img src='images/cs2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explainable Hardware Trojan Detection and Localization in FPGA Netlists](https://ieeexplore.ieee.org/document/10833822)
+[Explainable Hardware Trojan Detection and Localization in FPGA Netlists](https://www.sciencedirect.com/science/article/pii/S016740482600088X)
 
 Lingjuan Wu, Hao Su, Siyi Tian, **Xuelin Zhang**, [Wei Hu*](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en). 
 
