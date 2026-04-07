@@ -44,7 +44,7 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
-- *2026.4*: &nbsp;🎉🎉  一篇论文（“GUI多整体设计”）被[**ACL Findings**](https://openreview.net/forum?id=1YVmSUB1lb)接收.
+- *2026.4*: &nbsp;🎉🎉  一篇论文（“GUI多智能体设计”）被[**ACL Findings**](https://openreview.net/forum?id=1YVmSUB1lb)接收.
 
 - *2026.4*: &nbsp;🎉🎉  一篇论文（“可解释硬件木马定位”）被[**Computer & Security**](https://www.sciencedirect.com/journal/computers-and-security)接收.
 
@@ -52,7 +52,7 @@ redirect_from:
 
 - *2026.1*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**Information Sciences**](https://www.sciencedirect.com/journal/information-sciences)接收.
 
-- *2026.1*: &nbsp;🎉🎉  荣获[**ICPADS 2025**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
+- *2026.1*: &nbsp;🎉🎉  荣获[**IEEE ICPADS 2025**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
 
 - *2024.06 - 2025.01:* &nbsp;🎉🎉   前往[**中山大学交流学习**](https://scst.sysu.edu.cn/teacher/ShenLi).
 
