@@ -412,7 +412,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（2）其他**
 
-- Detecting LLM Hallucinations via Nonlinear Manifold Separation.
+- [Detecting LLM Hallucinations via Nonlinear Manifold Separation.](https://openreview.net/forum?id=DRWSVEmGt1)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. *
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
