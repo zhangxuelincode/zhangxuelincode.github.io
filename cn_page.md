@@ -401,10 +401,10 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 **（1）一作**
 
 - Bilevel Manifold Fitting.
-- Meta Additive Model: Interpretable Sparse Learning With Auto Weighting.
+- [Meta Additive Model: Interpretable Sparse Learning With Auto Weighting.](https://arxiv.org/abs/2604.20111)
 - BIAM: Bilevel Interactive Additive Model for Datasets with Missing Values.
 - [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766) #
-- On the Stability and Generalization of First-order Bilevel Minimax Optimization.
+- [On the Stability and Generalization of First-order Bilevel Minimax Optimization.](https://arxiv.org/2604.20115)
 - [S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.](https://arxiv.org/abs/2604.19072)
 - [Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System.](https://arxiv.org/pdf/2602.08335) #
 - [Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.](https://arxiv.org/pdf/2603.00955)
