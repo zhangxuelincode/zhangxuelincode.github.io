@@ -61,10 +61,10 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 </div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+[S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection](https://arxiv.org/abs/2604.19072)
 
 **Xuelin Zhang**, Hong Chen*, Yingjie Wang, Tieliang Gong, Bin Gu
 
@@ -73,14 +73,14 @@ redirect_from:
 - 传统的基于流形正则化的半监督学习高度依赖预设的相似度度量，在面对冗余或嘈杂的输入变量时往往表现不佳。
 - 为此，本文提出了一种全新的半监督元加性模型（S2MAM），通过双层优化方案自动筛选有效变量并动态更新相似度矩阵，从而实现具备可解释性的预测。
 - 理论证明与广泛的数据集实验均表明，该方法在计算收敛性、统计泛化能力以及应对噪声数据的鲁棒性上具有显著优势。
-- 实现代码：[Github Link](https://anonymous.4open.science/r/S2MAM-2731/)
+- 实现代码：[Github Link](https://github.com/zxlml/S2MAM)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[24] ICML 2026 </div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[24] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+[UltraHorizon: Benchmarking LLM-Agent Capabilities in Ultra Long-Horizon Scenarios](https://arxiv.org/abs/2509.21766)
 
 Haotian Luo#, Huaisong Zhang#, **Xuelin Zhang**#, Haoyu Wang#, Zeyu Qin#, WenJie Lu#, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen*
 
@@ -94,10 +94,10 @@ Haotian Luo#, Huaisong Zhang#, **Xuelin Zhang**#, Haoyu Wang#, Zeyu Qin#, WenJie
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[23] ICML 2026 </div><img src='images/icml1-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[23] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml1-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](https://arxiv.org/abs/2601.22528)
 
 Hongze Mi, Yibo Feng, WenJie Lu, Song Cao, Jinyuan Li, Yanming Li, **Xuelin Zhang**, Haotian Luo, Songyang Peng, He Cui, Tengfei Tian, Jun Fang, Hua Chai, Naiqiang Tan*.
 
