@@ -44,6 +44,8 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
+- *2026.4*: &nbsp;🎉🎉  三篇论文（“半监督学习”、“大模型评测”、“GUI智能体设计”）被[**ICML**](https://icml.cc/Conferences/2026)接收.
+
 - *2026.4*: &nbsp;🎉🎉  一篇论文（“GUI多智能体设计”）被[**ACL Findings**](https://openreview.net/forum?id=1YVmSUB1lb)接收.
 
 - *2026.4*: &nbsp;🎉🎉  一篇论文（“可解释硬件木马定位”）被[**Computer & Security**](https://www.sciencedirect.com/journal/computers-and-security)接收.
@@ -58,6 +60,55 @@ redirect_from:
 
 
 # 📝 机器学习方向论文
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 </div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+**Xuelin Zhang**, Hong Chen*, Yingjie Wang, Tieliang Gong, Bin Gu
+
+**Forty-Third International Conference on Machine Learning 2026 [C]** 
+
+- 传统的基于流形正则化的半监督学习高度依赖预设的相似度度量，在面对冗余或嘈杂的输入变量时往往表现不佳。
+- 为此，本文提出了一种全新的半监督元加性模型（S2MAM），通过双层优化方案自动筛选有效变量并动态更新相似度矩阵，从而实现具备可解释性的预测。
+- 理论证明与广泛的数据集实验均表明，该方法在计算收敛性、统计泛化能力以及应对噪声数据的鲁棒性上具有显著优势。
+- 实现代码：[Github Link](https://anonymous.4open.science/r/S2MAM-2731/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[24] ICML 2026 </div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+Haotian Luo#, Huaisong Zhang#, **Xuelin Zhang**#, Haoyu Wang#, Zeyu Qin#, WenJie Lu#, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen*
+
+**Forty-Third International Conference on Machine Learning 2026 [C]** 
+
+- 现有的自主智能体评估未能涵盖现实世界中那些需要持续推理、记忆管理和工具调用的长周期且部分可观察的复杂任务。
+- 为了填补这一空白，作者提出了一个全新的跨环境探索基准测试，其特点是具有极长的智能体交互轨迹、极高的Token消耗量和频繁的工具调用。
+- 广泛的实验表明，当前最先进的智能体在这些任务中表现远不如人类，且无法通过简单的扩大规模来提升，其失败的主要原因在于上下文锁定（in-context locking）和基础能力的缺失。
+- 实现代码：[Github Link](https://github.com/StarDewXXX/UltraHorizon)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[23] ICML 2026 </div><img src='images/icml1-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+Hongze Mi, Yibo Feng, WenJie Lu, Song Cao, Jinyuan Li, Yanming Li, **Xuelin Zhang**, Haotian Luo, Songyang Peng, He Cui, Tengfei Tian, Jun Fang, Hua Chai, Naiqiang Tan*.
+
+**Forty-Third International Conference on Machine Learning 2026 [C]** 
+
+- 为了克服多模态大语言模型（MLLM）在复杂GUI自动化中的记忆与上下文限制，我们提出了达尔文记忆系统（DMS），该自进化架构利用效用驱动的“自然选择”机制来动态分解任务并淘汰次优策略。
+- 通过将记忆构建为一个不断进化的生态系统，DMS在无需任何额外训练的情况下，显著提升了MLLM智能体的任务成功率、执行稳定性与效率。
+- 实现代码：[Github Link](https://anonymous.4open.science/r/DMS-C48C)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[22] ACL Findings 2026 </div><img src='images/acl2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -403,9 +454,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Bilevel Manifold Fitting.
 - [Meta Additive Model: Interpretable Sparse Learning With Auto Weighting.](https://arxiv.org/abs/2604.20111)
 - BIAM: Bilevel Interactive Additive Model for Datasets with Missing Values.
-- [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766) #
 - [On the Stability and Generalization of First-order Bilevel Minimax Optimization.](https://arxiv.org/2604.20115)
-- [S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.](https://arxiv.org/abs/2604.19072)
 - [Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System.](https://arxiv.org/pdf/2602.08335) #
 - [Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.](https://arxiv.org/pdf/2603.00955)
 
