@@ -44,7 +44,7 @@ redirect_from:
 
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
-- *2026.4*: &nbsp;🎉🎉  三篇论文（“半监督学习”、“大模型评测”、“GUI智能体设计”）被[**ICML**](https://icml.cc/Conferences/2026)接收.
+- *2026.5*: &nbsp;🎉🎉  三篇论文（“半监督学习”、“大模型评测”、“GUI智能体设计”）被[**ICML**](https://icml.cc/Conferences/2026)接收.
 
 - *2026.4*: &nbsp;🎉🎉  一篇论文（“GUI多智能体设计”）被[**ACL Findings**](https://openreview.net/forum?id=1YVmSUB1lb)接收.
 
