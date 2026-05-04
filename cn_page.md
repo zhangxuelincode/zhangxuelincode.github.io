@@ -87,7 +87,7 @@ Haotian Luo#, Huaisong Zhang#, **Xuelin Zhang**#, Haoyu Wang#, Zeyu Qin#, WenJie
 **Forty-Third International Conference on Machine Learning 2026 [C]** 
 
 - 现有的自主智能体评估未能涵盖现实世界中那些需要持续推理、记忆管理和工具调用的长周期且部分可观察的复杂任务。
-- 为了填补这一空白，作者提出了一个全新的跨环境探索基准测试，其特点是具有极长的智能体交互轨迹、极高的Token消耗量和频繁的工具调用。
+- 为了填补这一空白，我们提出了一个全新的跨环境探索基准测试，其特点是具有极长的智能体交互轨迹、极高的Token消耗量和频繁的工具调用。
 - 广泛的实验表明，当前最先进的智能体在这些任务中表现远不如人类，且无法通过简单的扩大规模来提升，其失败的主要原因在于上下文锁定（in-context locking）和基础能力的缺失。
 - 实现代码：[Github Link](https://github.com/StarDewXXX/UltraHorizon)
 </div>
