@@ -30,11 +30,11 @@ redirect_from:
 
 我的研究方向主要包括：
 
-- 可解释/鲁棒的机器学习算法设计（**双层优化**、**图像检测分割**、**LLM 智能体设计**、**LLM能力评估与增强**）
+- 可解释/鲁棒的机器学习算法设计（**双层优化**、**LLM 智能体设计**、**LLM评估与增强**）
 
 - 传统算法与大模型的统计性质分析（收敛、**泛化**、一致性、**可控性**保障）
 
-- 机器学习算法应用（基于 自然语言与电路拓扑结构 等策略的**硬件安全检测**）
+- 机器学习算法应用（**EDA安全**、**生命科学**、**智慧农业**）
 
 推荐阅读论文：[可解释人工智能（XAI）](https://arxiv.org/abs/2103.11251), [鲁棒机器学习(Robustness)](https://ieeexplore.ieee.org/document/10571602), [大语言模型综述](https://llmbook-zh.github.io/), [大模型入门手册](https://v11enp9ok1h.feishu.cn/wiki/NHZqwdWDfiAiUkkxen0csABTn9e).
 
