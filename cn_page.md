@@ -42,6 +42,8 @@ redirect_from:
 
 # 🔥 新闻
 
+- *2026.5*: &nbsp;🎉🎉  被评选为[**ICML**](https://icml.cc/Conferences/2026)-**Golden Reviewer**.
+
 - *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
 - *2026.5*: &nbsp;🎉🎉  三篇论文（“半监督学习”、“大模型评测”、“GUI智能体设计”）被[**ICML**](https://icml.cc/Conferences/2026)接收.
