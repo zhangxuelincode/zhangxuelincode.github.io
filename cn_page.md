@@ -19,11 +19,11 @@ redirect_from:
 
 # 👨‍🎓 教育与实习经历
 
-- 本科(2016-2020)就读于中国农业大学理科试验班(信息科学)，研究生(2020--)就读于华中农业大学信息学院.
-- 硕士期间（2020-2022）在[武玲娟教授](https://ieeexplore.ieee.org/author/37087467264)的指导下研究**可解释鲁棒机器学习**算法设计以及在**硬件安全领域**的应用.
-- 博士期间（2022年转博后-至今）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释鲁棒优化算法设计**与**算法统计理论分析**.
-- 2024年前往 [**中山大学**](https://scst.sysu.edu.cn/teacher/ShenLi) 交流学习， 专注于**LLM多智能体高效协作**。
-- 2025年前往滴滴出行 [AI-Lab](https://www.didiglobal.com/science/ailabs) 交流实习， 关注**LLM多智能体强化**与**智能体Benchmark构建**。
+- 本科(2016至2020年)就读于中国农业大学理科试验班(信息科学)，研究生(2020--)就读于华中农业大学信息学院.
+- 硕士期间（2020至2022年）在[武玲娟教授](https://ieeexplore.ieee.org/author/37087467264)的指导下研究**可解释鲁棒机器学习**算法设计以及在**硬件安全领域**的应用.
+- 博士期间（2022至2026年）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释鲁棒优化算法设计**与**算法统计理论分析**.
+- 2024至2025年前往 [**中山大学**](https://scst.sysu.edu.cn/teacher/ShenLi) 交流学习， 专注于**LLM多智能体高效协作**。
+- 2025至2026年前往滴滴出行 [AI-Lab](https://www.didiglobal.com/science/ailabs) 交流实习， 关注**LLM多智能体强化**与**智能体Benchmark构建**。
 - 预计于2026年中旬毕业.
 
 # 🔬 研究方向
@@ -38,13 +38,13 @@ redirect_from:
 
 推荐阅读论文：[可解释人工智能（XAI）](https://arxiv.org/abs/2103.11251), [鲁棒机器学习(Robustness)](https://ieeexplore.ieee.org/document/10571602), [大语言模型综述](https://llmbook-zh.github.io/), [大模型入门手册](https://v11enp9ok1h.feishu.cn/wiki/NHZqwdWDfiAiUkkxen0csABTn9e).
 
-如果对我的研究方向感兴趣, 或者有推荐的 **校招岗位** 😃, 烦请联系: xlinml@163.com （万分感谢 ‼️）
+如果对我的研究方向感兴趣, 或者有推荐的 **合作Paper方向** 😃, 烦请联系: xlinml@163.com （万分感谢 ‼️）
 
 # 🔥 新闻
 
 - *2026.5*: &nbsp;🎉🎉  被评选为[**ICML**](https://icml.cc/Conferences/2026)-**Golden Reviewer**.
 
-- *2025.07 - Now*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
+- *2025.7 - 2026.6*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
 - *2026.5*: &nbsp;🎉🎉  三篇论文（“半监督学习”、“大模型评测”、“GUI智能体设计”）被[**ICML**](https://icml.cc/Conferences/2026)接收.
 
@@ -58,7 +58,7 @@ redirect_from:
 
 - *2026.1*: &nbsp;🎉🎉  荣获[**IEEE ICPADS 2025**](http://ieee-icpads.org.cn/) **Best Presentation in Session**奖项.
 
-- *2024.06 - 2025.01:* &nbsp;🎉🎉   前往[**中山大学交流学习**](https://scst.sysu.edu.cn/teacher/ShenLi).
+- *2024.6 - 2025.1:* &nbsp;🎉🎉   前往[**中山大学交流学习**](https://scst.sysu.edu.cn/teacher/ShenLi).
 
 
 # 📝 机器学习方向论文
