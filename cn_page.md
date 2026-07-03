@@ -19,12 +19,12 @@ redirect_from:
 
 # 👨‍🎓 教育与实习经历
 
-- 本科(2016至2020年)就读于中国农业大学理科试验班(信息科学)，研究生(2020--)就读于华中农业大学信息学院.
+- 本科(2016至2020年)就读于中国农业大学理科试验班(信息科学)，研究生(2020至2026年)就读于华中农业大学信息学院.
 - 硕士期间（2020至2022年）在[武玲娟教授](https://ieeexplore.ieee.org/author/37087467264)的指导下研究**可解释鲁棒机器学习**算法设计以及在**硬件安全领域**的应用.
 - 博士期间（2022至2026年）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释鲁棒优化算法设计**与**算法统计理论分析**.
 - 2024至2025年前往 [**中山大学**](https://scst.sysu.edu.cn/teacher/ShenLi) 交流学习， 专注于**LLM多智能体高效协作**。
 - 2025至2026年前往滴滴出行 [AI-Lab](https://www.didiglobal.com/science/ailabs) 交流实习， 关注**LLM多智能体强化**与**智能体Benchmark构建**。
-- 预计于2026年中旬毕业.
+- 已于2026年中旬毕业.
 
 # 🔬 研究方向
 
@@ -485,7 +485,9 @@ Lucky 2026 !
 More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 
 # 🎖️ 以往活动与奖项
-- *2025.7 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
+- *2026.6:*  荣获“**2026届优秀博士毕业生**”.
+- *2026.6:*  荣获“**2025年度三好研究生**”.
+- *2025.7 - 2026.6:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
 - *2026.1:* 荣获两项 **ICPADS 2025** **Best Presentation in Session** 奖项.
 - *2025.12:* 现场汇报： 安徽合肥召开的[**31th IEEE ICPADS-2025 并行与分布式系统国际会议**](http://ieee-icpads.org.cn/).
 - *2025.11:* 现场汇报： 韩国首尔召开的[**34th ACM CIKM-2025 信息与知识管理国际会议**](https://cikm2025.org/).
