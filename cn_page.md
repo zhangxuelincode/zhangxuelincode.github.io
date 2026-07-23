@@ -66,7 +66,7 @@ redirect_from:
 # 📝 机器学习方向论文
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] NN 2026 [ccf-A, Core A*]</div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] NN 2026 [ccf-B, Q2 Top, IF 7.22]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bilevel Manifold Fitting](https://arxiv.org/abs/2604.19072)
