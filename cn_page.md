@@ -42,11 +42,13 @@ redirect_from:
 
 # 🔥 新闻
 
+- *2026.6*: &nbsp;🎉🎉  被评选为[**优秀博士毕业生与三好研究生**](https://yjs.hzau.edu.cn/info/1183/863668.htm).
+
 - *2026.5*: &nbsp;🎉🎉  被评选为[**ICML**](https://icml.cc/Conferences/2026)-**Golden Reviewer**.
 
 - *2025.7 - 2026.6*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs).
 
-- *2026.5*: &nbsp;🎉🎉  三篇论文（“半监督学习”、“大模型评测”、“GUI智能体设计”）被[**ICML**](https://icml.cc/Conferences/2026)接收.
+- *2026.5*: &nbsp;🎉🎉  三篇论文（“半监督学习”、“大模型评测”、“GUI智能体设计”）被[**ICML**](https://icml.cc/Conferences/2026)接收. 
 
 - *2026.4*: &nbsp;🎉🎉  一篇论文（“GUI多智能体设计”）被[**ACL Findings**](https://openreview.net/forum?id=1YVmSUB1lb)接收.
 
@@ -62,6 +64,24 @@ redirect_from:
 
 
 # 📝 机器学习方向论文
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] NN 2026 [ccf-A, Core A*]</div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bilevel Manifold Fitting](https://arxiv.org/abs/2604.19072)
+
+**Xuelin Zhang**, Hong Chen, Li Shen, Bin Gu, Heng Huang
+
+**Neural Network 2026 [J]** 
+
+- 针对噪声干扰容易误导潜在流形估计的问题，本文提出了一种双层循环生成对抗网络，通过自动分配掩码来学习鲁棒的空间映射并生成合成样本。
+- 此外，理论推导出的泛化误差上界与丰富的实验结果均验证了该方法在处理受损数据时具有出色的竞争力和鲁棒性。
+- 实现代码：[Github Link](https://github.com/zxlml/BCGAN)
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
