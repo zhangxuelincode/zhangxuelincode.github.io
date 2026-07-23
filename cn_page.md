@@ -483,6 +483,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（2）其他**
 
+- Learning Feature Streams for Evolving Domain Adaptation.
 - [Detecting LLM Hallucinations with Manifold-Calibrated Pseudo-Supervision.](https://openreview.net/forum?id=DRWSVEmGt1)
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
