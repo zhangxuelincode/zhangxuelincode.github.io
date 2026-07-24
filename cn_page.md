@@ -506,7 +506,7 @@ More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 
 # 🎖️ 以往活动与奖项
 - *2026.6:*  荣获“**2026届优秀博士毕业生**”.
-- *2026.6:*  荣获“**2025年度三好研究生**”.
+- *2026.6:*  荣获“**2026年度三好研究生**”.
 - *2025.7 - 2026.6:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
 - *2026.1:* 荣获两项 **ICPADS 2025** **Best Presentation in Session** 奖项.
 - *2025.12:* 现场汇报： 安徽合肥召开的[**31th IEEE ICPADS-2025 并行与分布式系统国际会议**](http://ieee-icpads.org.cn/).
@@ -524,7 +524,7 @@ More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 - *2024.12:* 现场汇报： [**2024年湖北省工业与应用数学学会优秀研究生论文评选**.](http://hbsiam.whu.edu.cn/a/tongzhigonggao/86.html)
 - *2024.12:* 现场汇报： [**CCF武汉2024年会暨第八届优秀博士生学术风采展示论坛**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
 - *2024.11:* 荣获 [2024年度**博士国家奖学金**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
-- *2024.11:* 荣获 [2024年度**三好研究生**.](https://yjs.hzau.edu.cn/info/1192/10321.htm)
+- *2024.11:* 荣获 [**2024年度三好研究生**.](https://yjs.hzau.edu.cn/info/1192/10321.htm)
 - *2024.11:* 海报参展： 江苏南京召开的[**第二十二届中国工业与应用数学学会年会**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
 - *2024.8:*  现场汇报： 韩国济州岛召开的[**33rd IJCAI 国际人工智能会议口头汇报与海报展示**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
 - *2024.5 - 2025.1:* 前往[**中山大学深圳校区-沈力教授团队交流学习**](https://scst.sysu.edu.cn/members/members01/1415116.htm).
