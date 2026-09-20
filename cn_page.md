@@ -489,7 +489,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（1）一作**
 
-- [Meta Additive Model: Interpretable Sparse Learning With Auto Weighting.](https://arxiv.org/abs/2604.20111)
 - BIAM: Bilevel Interactive Additive Model for Datasets with Missing Values.
 - [On the Stability and Generalization of First-order Bilevel Minimax Optimization.](https://arxiv.org/2604.20115)
 - [Who Deserves the Reward? SHARP: Shaply Credit-based Optimization for Multi-Agent System.](https://arxiv.org/pdf/2602.08335) #
@@ -579,7 +578,7 @@ More ongoing works on agentic RL and intelligent bioinformatics are coming soon!
 
 - *会议审稿人:* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [CVPR](https://cvpr.thecvf.com/Conferences/2026), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/) and their workshops.
 
-- *期刊审稿人:* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [Machine Learning](https://link.springer.com/journal/10994), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Integration](https://www.sciencedirect.com/journal/integration), [Statistics and Computing](https://link.springer.com/journal/11222), [Discover Analytics](https://link.springer.com/journal/44257), [Frontiers in Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Biomedical Research](http://www.jbr-pub.org.cn/).
+- *期刊审稿人:* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [Machine Learning](https://link.springer.com/journal/10994), [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Integration](https://www.sciencedirect.com/journal/integration), [Statistics and Computing](https://link.springer.com/journal/11222), [Discover Analytics](https://link.springer.com/journal/44257), [Frontiers in Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Biomedical Research](http://www.jbr-pub.org.cn/).
 
 
 # 🌏 浏览记录
