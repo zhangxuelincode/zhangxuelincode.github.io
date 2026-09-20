@@ -44,6 +44,8 @@ redirect_from:
 
 - *2026.9*: &nbsp;🎉🎉  一篇论文（“可解释建模”）被[**Data Mining and Knowledge Discovery**](https://link.springer.com/journal/10618)接收.
 
+- *2026.7*: &nbsp;🎉🎉  一篇论文（“鲁棒流形拟合”）被[**Neural Networks**](https://www.sciencedirect.com/journal/neural-networks)接收.
+
 - *2026.6*: &nbsp;🎉🎉  被评选为[**优秀博士毕业生与三好研究生**](https://yjs.hzau.edu.cn/info/1183/863668.htm).
 
 - *2026.5*: &nbsp;🎉🎉  被评选为[**ICML**](https://icml.cc/Conferences/2026)-**Golden Reviewer**.
