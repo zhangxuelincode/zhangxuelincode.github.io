@@ -42,6 +42,8 @@ redirect_from:
 
 # 🔥 新闻
 
+- *2026.9*: &nbsp;🎉🎉  一篇论文（“可解释建模”）被[**Data Mining and Knowledge Discovery**](https://link.springer.com/journal/10618)接收.
+
 - *2026.6*: &nbsp;🎉🎉  被评选为[**优秀博士毕业生与三好研究生**](https://yjs.hzau.edu.cn/info/1183/863668.htm).
 
 - *2026.5*: &nbsp;🎉🎉  被评选为[**ICML**](https://icml.cc/Conferences/2026)-**Golden Reviewer**.
@@ -65,6 +67,20 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[27] DMKD 2026 [ccf-B, Q3, IF 6.70]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Meta Additive Model: Interpretable Sparse Learning With Auto Weighting](https://arxiv.org/abs/2604.20111)
+
+**Xuelin Zhang**, Xinyue Liu, Lingjuan Wu, Hong Chen*
+
+**Data Mining and Knowledge Discovery 2026 [J]** 
+
+- 通过神经网络从元数据中自动学习数据驱动的样本权重，其研究意义在于彻底解决了传统稀疏加性模型在面对复杂噪声、异常值和不平衡数据时鲁棒性差且高度依赖人工调参的难题。
+- 理论上，为MAM模型的计算收敛性、算法泛化界限以及变量选择的一致性提供了保障。   
+- 实现代码：[Github Link](https://github.com/zxlml/MAM)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[26] NN 2026 [ccf-B, Q2 Top, IF 7.22]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
