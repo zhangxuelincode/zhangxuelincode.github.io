@@ -38,7 +38,7 @@ redirect_from:
 
 推荐阅读论文：[可解释人工智能（XAI）](https://arxiv.org/abs/2103.11251), [鲁棒机器学习(Robustness)](https://ieeexplore.ieee.org/document/10571602), [大语言模型综述](https://llmbook-zh.github.io/), [大模型入门手册](https://v11enp9ok1h.feishu.cn/wiki/NHZqwdWDfiAiUkkxen0csABTn9e).
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="40">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="40">
 <defs>
 <linearGradient id="a" x1="0" y1="0" x2="100%" y2="0">
 <stop offset="0%" stop-color="#ff8a00"/>
