@@ -109,7 +109,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection](https://arxiv.org/abs/2604.19072)
+[S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection]()
 
 **Xuelin Zhang**, Hong Chen*, Yingjie Wang, Tieliang Gong, Bin Gu
 
